@@ -1,6 +1,6 @@
 # Github Recommender 101
 
-A experimental recommender inside of streamlit to keep updated in new developments in terms of my preferences.
+An experimental recommender inside of streamlit to keep updated in new developments in terms of my preferences.
 
 <video src="https://user-images.githubusercontent.com/687670/178553753-ed82fb41-622c-475d-aa1e-3f692a07e3ee.mp4" controls="controls" style="max-width: 730px;"> </video>
 
