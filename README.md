@@ -14,7 +14,7 @@ An experimental recommender inside of streamlit to keep updated in new developme
     * implict (done)
     * LightFm (done)
     * tensorflow
-    * fastapi (tricky in terms of implict issues, because it expects ratings and fill 0 value combos will explode the data)
+    * fastai (tricky in terms of implict issues, because it expects ratings and fill 0 value combos will explode the data)
 
 ## Streamlit
 
