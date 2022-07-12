@@ -4,6 +4,8 @@ A experimental recommender inside of streamlit to keep updated in new developmen
 
 ![Screenshot](screenshot.png)
 
+<video src="https://user-images.githubusercontent.com/687670/178553753-ed82fb41-622c-475d-aa1e-3f692a07e3ee.mp4</video>
+
 ## Data
 
 1. Choose and prepare data (via gcp you can access github data related to public projects).
