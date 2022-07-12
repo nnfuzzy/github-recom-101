@@ -39,6 +39,12 @@ docker build -t recom101 .
 docker run --rm recom101      
 ```
 
+## Possible future
+
+* Adding more algorithms
+* Make everything more configurable with the json file
+* Make it more generic for different data use cases
+
 ## Credits 
 
 Public community and ...
