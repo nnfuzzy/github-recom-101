@@ -23,7 +23,7 @@ An experimental recommender inside of streamlit to keep updated in new developme
 #### Running
 
 ```
-DATA_PATH="data/" GITHUB_TOKEN="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" streamlit run recom_app.py
+DATA_PATH="data/" streamlit run recom_app.py
 ``` 
 
 
