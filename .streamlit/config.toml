@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+
+[server]
+maxUploadSize = 1
+enableCORS = false
+enableXsrfProtection = false
+port=8501
+
+[browser]
+gatherUsageStats = false

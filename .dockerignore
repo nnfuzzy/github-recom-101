@@ -1,0 +1,9 @@
+# Ignore everything
+**
+# ... except for dependencies and source
+!recom101/*
+!recom_app.py
+!environment.yml
+!simple.yml
+!.streamlit/*
+!data/*
