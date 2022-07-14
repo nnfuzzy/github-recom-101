@@ -53,6 +53,7 @@ Public community and ...
 * [tensorflow-recommenders](https://github.com/tensorflow/recommenders)
 * [loguru](https://github.com/Delgan/loguru)
 * [pandas](https://github.com/pandas-dev/pandas)
+* [implicit](https://github.com/benfred/implicit)
 * [lightfm](https://github.com/lyst/lightfm)
 * [lightfm-dataset-helper](https://github.com/Med-ELOMARI/LightFM-Dataset-Helper)
 * [polars](https://github.com/pola-rs/polars/)
